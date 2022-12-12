@@ -21,7 +21,7 @@ Existe [un tutorial introductorio](https://programminghistorian.org/es/lecciones
 
 ### quanteda: Quantitative Analysis of Textual Data
 
-Se puede acceder a la documentación de este paquete en <https://quanteda.io/>. 
+Se puede acceder a la documentación de este paquete en <https://quanteda.io/> y a una serie de tutoriales con ejemplos de algunos de los análisis posibles en <https://tutorials.quanteda.io/>.
 
 ### tidytext
 
