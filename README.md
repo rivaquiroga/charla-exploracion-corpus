@@ -1,6 +1,7 @@
 # Exploración de corpus textuales con software libre
 
 En esta charla haremos un recorrido por distintas herramientas para la exploración de corpus textuales y discutiremos la utilidad de cada una de ellas dependiendo de nuestros objetivos de investigación. En todos los casos se trata de herramientas gratuitas y la mayoría de ellas son también de código abierto. 
+El enlace abreviado a este repositorio es <https://tinyurl.com/exploracion-corpus>
 
 <img src="afiche.jpeg" width="400">
 
