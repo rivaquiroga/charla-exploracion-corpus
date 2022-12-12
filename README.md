@@ -9,7 +9,7 @@ En esta charla haremos un recorrido por distintas herramientas para la exploraci
 
 La url para utilizarlo en línea es <https://voyant-tools.org/>.
 
-En esta carpeta está [el corpus](https://www.dropbox.com/sh/pvdgn5ldj0ypyoo/AAAqFDO2hiRpqQ_7BwFgY521a?dl=0) que exploraremos. 
+En esta carpeta está [el corpus](https://www.dropbox.com/s/lir5wh7eiz7eovd/discursos.zip?dl=0) que exploraremos. 
 Agregaremos las stopwords disponibles en [este documento](https://www.dropbox.com/s/7ub4mxtbt7bei1d/stopwords.txt?dl=0) a nuestra exploración. 
 
 Existe [un tutorial introductorio](https://programminghistorian.org/es/lecciones/analisis-voyant-tools) publicado en Programming Historian. La traducción al portugués está en proceso de revisión, pero es posible leer [el borrador](http://programminghistorian.github.io/ph-submissions/pt/esbocos/traducoes/analise-corpus-voyant).
@@ -18,13 +18,15 @@ Existe [un tutorial introductorio](https://programminghistorian.org/es/lecciones
 
 Se puede descargar desde <https://www.laurenceanthony.net/software/antconc/>. Está disponible para Windows, MacOS y Linux. En el caso de Windows, existe una versión "portable" que permite instalarlo en computadores en los que no tenemos privilegios de administración o si queremos instalaro en un _pen drive_. Existe [una lista de correos](https://groups.google.com/g/antconc) en la que es posible hacer consultas y recibir respuestas de otras personas que usan la herramienta o del mismo desarrollador. 
 
+Trabajaremos con los mismos archivos que en el ejemplo anterior. 
+
 Existe [un tutorial introductorio](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc) publicado en Programming Historian. Se trata de una traducción al español de [un tutorial publicado inicialmente en inglés](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc). 
 
 ## R: quanteda y tidytext
 
 ### quanteda: Quantitative Analysis of Textual Data
 
-El [ejemplo que mostraremos](https://posit.cloud/content/5128204) está en la versión en la nube de RStudio. Para utilizarla es necesario tener una cuenta en <https://posit.cloud/>.
+El [ejemplo que mostraremos](https://posit.cloud/content/5128204) está en la versión en la nube de RStudio. Para utilizarla es necesario tener una cuenta en <https://posit.cloud/>. En ese "proyecto" están ya los datos cargados. 
 
 Se puede acceder a la documentación de este paquete en <https://quanteda.io/> y a una serie de tutoriales con ejemplos de algunos de los análisis posibles en <https://tutorials.quanteda.io/>.
 
@@ -62,6 +64,7 @@ La documentación se puede consultar en <https://mimno.github.io/Mallet/topics.h
 
 ## UDPipe
 
+UDPipe es una herramienta multilingüe que nos permite tokenizar, asignar categorías gramaticales, entre otras acciones, a nuestros corpus. Se puede utilizar en línea, interactuar con su API desde la línea de comandos de nuestro computador o usar un "wrapper" desde R o Python. 
 Se puede acceder a la versión en línea en <https://lindat.mff.cuni.cz/services/udpipe/>. 
 
 ## Algunas referencias
