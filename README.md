@@ -59,7 +59,7 @@ Gensim es una libreria de Python enfocada principalmente en modelación de temas
 
 Es una herramienta escrita en Java enfocada en modelación de temas. Se usa a través de la línea de comandos (Terminal). 
 
-Existe [un tutorial introductorio]([https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc](https://programminghistorian.org/es/lecciones/topic-modeling-y-mallet)) publicado en Programming Historian. Se trata de una traducción al español de [un tutorial publicado inicialmente en inglés]([https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).
+Existe [un tutorial introductorio](https://programminghistorian.org/es/lecciones/topic-modeling-y-mallet)) publicado en Programming Historian. Se trata de una traducción al español de [un tutorial publicado inicialmente en inglés]([https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).
 
 La documentación se puede consultar en <https://mimno.github.io/Mallet/topics.html>.
 
