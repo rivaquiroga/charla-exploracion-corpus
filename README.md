@@ -9,6 +9,9 @@ En esta charla haremos un recorrido por distintas herramientas para la exploraci
 
 La url para utilizarlo en línea es <https://voyant-tools.org/>.
 
+En esta carpeta está [el corpus](https://www.dropbox.com/sh/pvdgn5ldj0ypyoo/AAAqFDO2hiRpqQ_7BwFgY521a?dl=0) que exploraremos. 
+Agregaremos las stopwords disponibles en [este documento](https://www.dropbox.com/s/7ub4mxtbt7bei1d/stopwords.txt?dl=0) a nuestra exploración. 
+
 Existe [un tutorial introductorio](https://programminghistorian.org/es/lecciones/analisis-voyant-tools) publicado en Programming Historian. La traducción al portugués está en proceso de revisión, pero es posible leer [el borrador](http://programminghistorian.github.io/ph-submissions/pt/esbocos/traducoes/analise-corpus-voyant).
 
 ## AntConc
