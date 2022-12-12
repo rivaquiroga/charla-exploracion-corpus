@@ -21,6 +21,8 @@ Existe [un tutorial introductorio](https://programminghistorian.org/es/lecciones
 
 ### quanteda: Quantitative Analysis of Textual Data
 
+El [ejemplo que mostraremos](https://posit.cloud/content/5128204) está en la versión en la nube de RStudio. Para utilizarla es necesario tener una cuenta en <https://posit.cloud/>.
+
 Se puede acceder a la documentación de este paquete en <https://quanteda.io/> y a una serie de tutoriales con ejemplos de algunos de los análisis posibles en <https://tutorials.quanteda.io/>.
 
 ### tidytext
